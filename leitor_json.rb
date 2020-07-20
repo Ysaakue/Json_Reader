@@ -11,5 +11,5 @@ json = file.read
 parsed = JSON.parse(json) #arquivo json
 
 parsed.each do |key|
-
+ #do somethig with the value here
 end
